@@ -2,7 +2,7 @@
 ----------------------------------------------------------
 
 
-[![Av1vs's github stats](https://github-readme-stats.vercel.app/api?username=n-xsi&count_private=true&show_icons=true&theme=radical)](https://github.com/Av1v7)
+[![Av1vs's github stats](https://github-readme-stats.vercel.app/api?username=Av1v7&count_private=true&show_icons=true&theme=radical)](https://github.com/Av1v7)
 
 
 ### About me

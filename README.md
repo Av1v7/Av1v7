@@ -1,7 +1,7 @@
 👨‍💻 Hey! I'm **Av1v** AKA. the worst dev on earth ngl
 ----------------------------------------------------------
 
-{"success":true,"data":{"spotify":null,"listening_to_spotify":false,"kv":{},"discord_user":{"username":"</Av1v7>","id":"921094593393618974","discriminator":"2420","avatar":"eb74c412fe9ffaafd39ef3ade8219262"},"discord_status":"dnd","activities":[{"type":4,"state":"Professional dumbass.","name":"Custom Status","id":"custom","created_at":1654620735053}],"active_on_discord_web":false,"active_on_discord_mobile":false,"active_on_discord_desktop":true}}
+[![Discord Presence](https://lanyard.cnrad.dev/api/921094593393618974?theme=dark&bg=4e1475&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/921094593393618974)
 
 [![Av1vs's github stats](https://github-readme-stats.vercel.app/api?username=Av1v7&count_private=true&show_icons=true&theme=radical)](https://github.com/Av1v7)
 

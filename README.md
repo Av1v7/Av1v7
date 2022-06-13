@@ -5,6 +5,7 @@
 
 [![Av1vs's github stats](https://github-readme-stats.vercel.app/api?username=Av1v7&count_private=true&show_icons=true&theme=radical)](https://github.com/Av1v7)
 
+[![discordBadge](https://img.shields.io/badge/Chat-Bot%20Service-7289d9?style=for-the-badge&logo=discord)](https://discord.gg/DGeBW6eWUj)
 
 ### About me
 

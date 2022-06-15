@@ -5,7 +5,7 @@
 
 [![Av1vs's github stats](https://github-readme-stats.vercel.app/api?username=Av1v7&count_private=true&show_icons=true&theme=radical)](https://github.com/Av1v7)
 
-[![discordBadge](https://img.shields.io/badge/Chat-Bot%20Service-7289d9?style=for-the-badge&logo=discord)](https://discord.gg/DGeBW6eWUj)
+[![discordBadge](https://img.shields.io/badge/Chat-Bot%20Service-7289d9?style=for-the-badge&logo=discord)](https://discord.gg/DGeBW6eWUj) [![Hits](https://hits.link/hits?url=https://github.com/Av1v7&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
 
 ### About me
 

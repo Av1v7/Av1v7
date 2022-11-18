@@ -4,7 +4,7 @@
 ----------------------------------------------------------
 ### About me
 
--  **Learning :** Python, JavaScript, Html, Css.
+-  **Learning :** Python, JavaScript, Golang, Html5, Css3.
 -  **Hobbies :** I like to code things like web development and discord bots.
 -  **My website :** [Av1v7.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) *Coming soon!*
 

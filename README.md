@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=21&duration=5015&pause=1000&color=FFFFFFFF&center=true&vCenter=true&multiline=true&width=435&lines=hey%2C+welcome+to+my+github"/>
 
-👨‍💻 Hey! I'm **Av1v** AKA. the worst dev on earth ngl
+👨‍💻 Hey! I'm **Av1v** AKA. the worst dev on earth ngl (:
 ----------------------------------------------------------
 ### About me
 

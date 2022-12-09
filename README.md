@@ -6,7 +6,7 @@
 
 -  **Knowledge :** Python, JavaScript, Golang, Html5, Css3, C#.
 -  **Learning :** TS, R, ReactJS/TS, C++, C, Yolo, Swim, FastAi.
--  **Hobbies :** I like to code things like web development and discord bots.
+-  **Hobbies :** I Like To Code Web Development, Games, Tools.
 -  **My website :** [Av1v7.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) *Coming soon!*
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/921094593393618974?theme=dark&bg=4e1475&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/921094593393618974)

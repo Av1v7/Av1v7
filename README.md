@@ -4,7 +4,8 @@
 ----------------------------------------------------------
 ### About me
 
--  **Learning :** Python, JavaScript, Golang, Html5, Css3.
+-  **Knowledge :** Python, JavaScript, Golang, Html5, Css3, C#.
+-  **Learning :** TS, R, ReactJS/TS, C++, C, Yolo, Swim, FastAi.
 -  **Hobbies :** I like to code things like web development and discord bots.
 -  **My website :** [Av1v7.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) *Coming soon!*
 

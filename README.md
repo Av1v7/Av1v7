@@ -9,7 +9,7 @@
 -  **Hobbies :** I Like To Code Web Development, Games, Tools.
 -  **My website :** [Av1v7.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) *Coming soon!*
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/921094593393618974?theme=dark&bg=4e1475&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/921094593393618974)
+[![Discord Presence](https://lanyard.cnrad.dev/api/921094593393618974?theme=dark&bg=000&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/921094593393618974)
 
 [![Av1vs's github stats](https://github-readme-stats.vercel.app/api?username=Av1v7&count_private=true&show_icons=true&theme=dark)](https://github.com/Av1v7)
 [![Av1vs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Av1v7&layout=compact&langs_count=25&theme=dark)](https://github.com/Av1v7)

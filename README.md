@@ -12,7 +12,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/921094593393618974?theme=dark&bg=4e1475&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/921094593393618974)
 
 [![Av1vs's github stats](https://github-readme-stats.vercel.app/api?username=Av1v7&count_private=true&show_icons=true&theme=radical)](https://github.com/Av1v7)
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Av1v7&layout=compact&langs_count=7&theme=dracula"/>
+[![Av1vs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Av1v7&layout=compact&langs_count=7&theme=dracula)](https://github.com/Av1v7)
 
 [![discordBadge](https://img.shields.io/badge/Chat-Bot%20Service-7289d9?style=for-the-badge&logo=discord)](https://discord.gg/DGeBW6eWUj)
 

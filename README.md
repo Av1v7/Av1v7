@@ -6,9 +6,6 @@ I'm Aviv Cybersecurity & Programmer. I Write Python, Nodejs, C++ Tools That Rela
 
 <img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/921094593393618974?theme=dark&bg=000&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/921094593393618974)
-
 [![Av1vs's github stats](https://github-readme-stats.vercel.app/api?username=Av1v7&count_private=true&show_icons=true&theme=dark)](https://github.com/Av1v7)
 [![Av1vs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Av1v7&layout=compact&langs_count=25&theme=dark)](https://github.com/Av1v7)
 

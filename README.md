@@ -50,9 +50,6 @@ I'm Aviv Cybersecurity & Programmer. I Write Python, Nodejs, C++ Tools That Rela
     <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
     </a> 
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/oracle_vm/oracle_vm-icon.svg" alt="oracle vm" width="40" height="40"/> 
-    </a>
 </p>
 
 ##  Connect with Me

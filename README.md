@@ -53,9 +53,6 @@ I'm Aviv Cybersecurity & Programmer. I Write Python, Nodejs, C++ Tools That Rela
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/> 
     </a> 
-    <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="kali linux" width="40" height="40"/> 
-    </a> 
 </p>
 
 ##  Connect with Me

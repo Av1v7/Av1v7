@@ -63,8 +63,8 @@ I'm Aviv Cybersecurity & Programmer. I Write Python, Nodejs, C++ Tools That Rela
 <a href='https://www.youtube.com/c/Av1v7'><img src='https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/youtube-circle.png' align='center' height="35" width="35"></a>
 </p>
 
-# **Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussions related to Python. Let's connect and create something amazing with Python!**
-- + Collaboration : <a href='mailto: businessaviv@gmail.com@gmail.com?subject=Intrested_to_Collab!'>Contact me </a>
+### **Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussions related to Python. Let's connect and create something amazing with Python!**
+- Collaboration : <a href='mailto: businessaviv@gmail.com@gmail.com?subject=Intrested_to_Collab!'>Contact me </a>
 
 [![Av1vs's github stats](https://github-readme-stats.vercel.app/api?username=Av1v7&count_private=true&show_icons=true&theme=dark)](https://github.com/Av1v7)
 [![Av1vs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Av1v7&layout=compact&langs_count=25&theme=dark)](https://github.com/Av1v7)

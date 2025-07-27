@@ -1,6 +1,3 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Aviv+/:;CYBER Security&Attacking;Programmer;" alt="Typing SVG" />
-
-
 # Introduction
 I'm Aviv Cybersecurity & Programmer. Mainly developing with Python, C++, C#, Java Tools That Related To Hacking (for educational purposes only :/) & Basically everything (;
 

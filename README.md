@@ -50,7 +50,7 @@ I'm Aviv Cybersecurity & Programmer. Mainly developing with Python, C++, C#, Jav
 <p align="left">
 <a href="https://twitter.com/Av1vF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stark404" height="30" width="40" /></a>
 <a href="https://instagram.com/aviv._.shemesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="la1uuuuu" height="30" width="40" /></a>
-<a href='https://in.linkedin.com/in/aviv-shemesh-b75324263'><img src='https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png' align='center' height="35" width="35"></a>
+<a href='https://in.linkedin.com/in/avivshemesh'><img src='https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png' align='center' height="35" width="35"></a>
 <a href='https://www.youtube.com/c/Av1v7'><img src='https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/youtube-circle.png' align='center' height="35" width="35"></a>
 </p>
 
